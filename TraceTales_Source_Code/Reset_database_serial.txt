@@ -1,0 +1,60 @@
+delete from tbbyproduct;
+ALTER TABLE tbbyproduct AUTO_INCREMENT = 1;
+
+delete from tbbyproduct_master;
+ALTER TABLE tbbyproduct_master AUTO_INCREMENT = 1;
+
+delete from tbbyproduct_invoice;
+ALTER TABLE tbbyproduct_invoice AUTO_INCREMENT = 1;
+
+delete from tbbyproduct_out;
+ALTER TABLE tbbyproduct_out AUTO_INCREMENT = 1;
+
+delete from tbcuttingdetails;
+ALTER TABLE tbcuttingdetails AUTO_INCREMENT = 1;
+
+delete from shipping_unit;
+ALTER TABLE shipping_unit AUTO_INCREMENT = 1;
+
+delete from tbpacking;
+ALTER TABLE tbpacking AUTO_INCREMENT = 1;
+
+delete from tbpackinglist;
+ALTER TABLE tbpackinglist AUTO_INCREMENT = 1;
+
+delete from tbpackinglistdetails;
+ALTER TABLE tbpackinglistdetails AUTO_INCREMENT = 1;
+
+delete from tbreceiving_box;
+ALTER TABLE tbreceiving_box AUTO_INCREMENT = 1;
+
+delete from tbreceiving_loinbox;
+ALTER TABLE tbreceiving_loinbox AUTO_INCREMENT = 1;
+
+delete from tbpo;
+ALTER TABLE tbpo AUTO_INCREMENT = 1;
+
+delete from tbreceiving;
+ALTER TABLE tbreceiving AUTO_INCREMENT = 1;
+
+delete from tbreceivingdetails;
+ALTER TABLE tbreceivingdetails AUTO_INCREMENT = 1;
+
+delete from tbreceiving_box;
+ALTER TABLE tbreceiving_box AUTO_INCREMENT = 1;
+
+delete from tbretouching;
+ALTER TABLE tbretouching AUTO_INCREMENT = 1;
+
+delete from tbretouchingdetails;
+ALTER TABLE tbretouchingdetails AUTO_INCREMENT = 1;
+
+update increment_box set nextnumber=1;
+
+update increment_byproduct set nextnumber=1;
+
+update increment_case set nextnumber=1;
+
+update increment_loin set nextnumber=1;
+
+update increment_receivingbox set nextnumber=1;

@@ -1,0 +1,534 @@
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmOptionalInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmOptionalInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintout_inv_byproduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PDC.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_LoinBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmOptionalInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintout_inv_byproduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PDC.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_LoinBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmOptionalInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintout_inv_byproduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PDC.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_LoinBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmDisplayRecapInv.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Disp\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmDisplayRecapInv.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmOptionalInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintout_inv_byproduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PDC.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_LoinBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.ListPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmDefrost_Loin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmDefrost_Loin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.ListPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmDisplayRecapInv.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmOptionalInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintout_inv_byproduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PDC.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_LoinBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy (2)\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\bin\Debug\zxing.xml
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmDefrost_Loin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.ListPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmByProductOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmDisplayRecapInv.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmInventoryOut.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmInvoice_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmOptionalInventory.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPackingList.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintout_inv_byproduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PDC.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PL.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_LoinBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmTransactionOut_ByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.InputByProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop - Copy\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice_Summary.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_Invoice_Summary.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\Tally_Fish_New - Scale_2018_Laptop\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_Fisherman.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\bin\Debug\Tallyfish.exe.config
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.csprojResolveAssemblyReference.cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmDefrost_Loin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.ListPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmCompany.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateBoxLabel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewLoin.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmCreateNewPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmCustomer.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmDisplayRecapInv.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmKanban.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmMGradePacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmMIncoterms.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmMSpecies.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmPO.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmPrintOut_PDC.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmProduct.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmProductCodeSAP.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmRecapInvoice.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmOptional.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmReceiving_LoinBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmRetouching.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmSetup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmSupplier.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmMutility.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.frmVessel.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.InputCutting.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.InputPacking.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.InputReceiving.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.InputReceivingBox.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.InputStuffing.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.MenuTransaction.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.Supplier_Integration.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.UserGroup.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.MainMenu.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.Properties.Resources.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.UserAccount.resources
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\obj\x86\Debug\Tallyfish.csproj.GenerateResource.Cache
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\bin\Debug\Tallyfish.exe
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\bin\Debug\Tallyfish.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\bin\Debug\zxing.dll
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\bin\Debug\zxing.pdb
+C:\Users\ekaputra\Documents\Visual Studio 2010\Projects\TraceTales_Basic\Tallyfish\bin\Debug\zxing.xml

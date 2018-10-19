@@ -1,0 +1,18 @@
+httpd.conf
+
+
+I found this solution work well
+
+I have solve the problem .
+
+in file "httpd.conf",there has another default Directory configuation like follow:
+<Directory />
+AllowOverride none
+Require all denied
+</Directory>
+you can delete this directory or change is as follow:
+
+<Directory />
+AllowOverride all
+Require all granted
+</Directory>
